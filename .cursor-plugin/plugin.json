@@ -1,0 +1,16 @@
+{
+  "name": "synthesis",
+  "description": "Your brand's real numbers, and the operating doctrine for reading them, inside Cursor and Grok Bot.",
+  "author": {
+    "name": "Synthesis Intelligence"
+  },
+  "homepage": "https://synthesisintelligence.ai",
+  "license": "MIT",
+  "keywords": [
+    "ecommerce",
+    "amazon",
+    "shopify",
+    "analytics",
+    "brand"
+  ]
+}
